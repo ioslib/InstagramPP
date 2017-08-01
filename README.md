@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/1/2017
+
+ - Updated Instagram++ to App Version 10.32
+
 7/28/2017
 
  - Updated to include latest fixes for sideload
