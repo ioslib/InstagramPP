@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/7/2017
+
+ - Updated to App Version 10.33
+
 8/1/2017
 
  - Updated Instagram++ to App Version 10.32
