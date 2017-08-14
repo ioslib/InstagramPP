@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/14/2017
+
+- Updated to App Version 10.34
+
 8/7/2017
 
  - Updated to App Version 10.33
@@ -30,5 +34,3 @@
  - 1.8r-56 Handle the case where TMP directory is full and is not allowing media to be saved
  - 1.8r-52 More attempts to fix downloads
  - 1.8r-50 Better failed error message
-
-
