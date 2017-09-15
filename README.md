@@ -4,6 +4,10 @@
 
 **Changelog**
 
+9/15/2017
+
+ - Updated Instagram++ to App Version 14.0
+
 9/6/2017
 
  - Updated Instagram++ to App Version 13.0 and latest Tweak
@@ -26,9 +30,6 @@
 
 - Updated to App Version 10.34
 
-8/7/2017
-
- - Updated to App Version 10.33
 
 
  UnlimApp's Instagram++ IPA Page
