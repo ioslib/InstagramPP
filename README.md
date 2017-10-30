@@ -4,6 +4,11 @@
 
 **Changelog**
 
+10/30/2017
+
+ - Updated to App Version 21.0
+ - Updated to latest Tweak Version
+
 10/16/2017
 
  - Updated Instagram++ to App Version 18.0 and latest tweak
