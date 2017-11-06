@@ -1,4 +1,4 @@
-**[Download Links Here](https://github.com/JMccormick264/InstagramPP/releases)**
+**[Instagram++ Download Page Here](https://github.com/JMccormick264/InstagramPP/releases)**
 
 **[Issue Repo Here](https://github.com/eni9889/IG-PP-Issues)**
 
