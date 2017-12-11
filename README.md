@@ -4,6 +4,10 @@
 
 **Changelog**
 
+12/11/2017
+
+ - Updated Instagram++ to App Version 26.0
+
 12/4/2017
 
  - Updated Instagram to App Version v25.0
