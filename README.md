@@ -4,6 +4,10 @@
 
 **Changelog**
 
+12/12/2017
+
+ - Fixed the file names
+
 12/11/2017
 
  - Updated Instagram++ to App Version 26.0
