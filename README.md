@@ -3,7 +3,13 @@
 
 **[Issue Repo Here](https://github.com/eni9889/IG-PP-Issues)**
 
+**[Change Log for Tweak Updates Here](https://beta.unlimapps.com/changes/com.unlimapps.gramplus)**
+
 **Changelog**
+
+7/7/2018
+
+ - Updated Instagram++ to Tweak Version: 1.8r-161
 
 7/6/2018
 
