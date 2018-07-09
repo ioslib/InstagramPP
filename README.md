@@ -7,6 +7,11 @@
 
 **Changelog**
 
+7/9/2018
+
+ - Updated Instagram++ to App Version: v53.0
+ - Updated Instagram++ to Tweak Version: 1.8r-162
+
 7/7/2018
 
  - Updated Instagram++ to Tweak Version: 1.8r-161
