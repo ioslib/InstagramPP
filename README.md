@@ -7,6 +7,10 @@
 
 **Changelog**
 
+7/17/2018
+
+ - Updated Instagram++ to App Version: v54.0
+
 7/9/2018
 
  - Updated Instagram++ to App Version: v53.0
