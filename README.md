@@ -7,6 +7,13 @@
 
 **Changelog**
 
+10/27/2018
+
+ - Updated Instagram+ to App Version: v68.0
+ - Updated to Sideload tweak: v1.8r-195
+    - ReGram and Reposting has been fixed in r-195.
+ - Changelog [here.](https://beta.unlimapps.com/changes/com.unlimapps.gramplus) Sideload applies up to r-195
+
 10/26/2018
 
  - Updated Instagram++ to App Version 67.0 (latest version that the tweak is compatible with)
