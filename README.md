@@ -7,6 +7,12 @@
 
 **Changelog**
 
+11/2/2018
+
+ - Updated Instagram++ to App Version: v69.0
+ - Updated to sideload tweak version: 1.8r-197
+ - See changelog link at the top of the page for the changes. 
+
 10/27/2018
 
  - Updated Instagram+ to App Version: v68.0
