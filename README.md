@@ -7,6 +7,10 @@
 
 **Changelog**
 
+11/23/2018
+
+ - Updated Instagram++ to App Version: v72.0
+
 11/15/2018
 
  - Updated Instagram++ to App Version: v71.0
@@ -36,32 +40,6 @@
  - Updated Instagram++ to tweak version 1.8r-194
  - Changelog [here.](https://beta.unlimapps.com/changes/com.unlimapps.gramplus) Sideload applies up to r-194 at this time.
  - **Note Reposting and ReGram does NOT work at the moment. Waiting for the fix to be pushed to sideload.**
-
-7/24/2018
-
- - Updated Instagram++ to App Version: v55.0
-
-7/17/2018
-
- - Updated Instagram++ to App Version: v54.0
-
-7/9/2018
-
- - Updated Instagram++ to App Version: v53.0
- - Updated Instagram++ to Tweak Version: 1.8r-162
-
-7/7/2018
-
- - Updated Instagram++ to Tweak Version: 1.8r-161
-
-7/6/2018
-
-- Updated Instagram++ to App Version: v52.0
-- Updated Instagram++ to Tweak version: v1.8r-159
-
-12/22/2017
-
- - Updated Instagram to App Version v27.0
 
 Credits:
 
