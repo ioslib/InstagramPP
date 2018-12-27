@@ -7,6 +7,11 @@
 
 **Changelog**
 
+12/26/2018
+
+ - Updated Instagram++ to App Version: v75.0
+ - Updated Instagram++ to Tweak Version: v1.8r-240
+
 11/23/2018
 
  - Updated Instagram++ to App Version: v72.0
